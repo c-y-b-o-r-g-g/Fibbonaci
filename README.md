@@ -29,7 +29,3 @@ After the loop ends, it prints a newline to finish the sequence.
 At the end of the script, the `fibbonaci` function is called with `end` set to `2500.1`. This means that when the script is run, it will print the Fibonacci sequence up to `2500.1`.
 
 To use the function with a different `end` value, you can modify this line of code, or call the `fibbonaci` function elsewhere in your code.
-
-## Example
-
-Running the script as is will output:
